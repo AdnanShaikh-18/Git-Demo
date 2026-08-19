@@ -1,1 +1,1 @@
-git and githib learning
+git and github learning
